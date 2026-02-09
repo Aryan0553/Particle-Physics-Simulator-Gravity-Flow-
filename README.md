@@ -13,6 +13,7 @@ This project visualizes real-time particle motion with gravity, collisions, fadi
 - Optimized update loop targeting ~60 FPS
 
 
+
 ## 🖱️ Controls
 
 - **Left Click** → Spawn particles  

@@ -32,4 +32,3 @@ This project visualizes real-time particle motion with gravity, collisions, fadi
   - Vector math  
   - Event-driven programming  
   - Animation loops  
-
